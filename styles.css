@@ -1,0 +1,14 @@
+.statePressMenu {
+    position: absolute;
+    background: #577643d9;
+    padding: 5px;
+}
+
+.nav-item {
+font-weight: bold;
+}
+
+
+#activeStateTitle, #closeStateMenu {
+    display: inline;
+}
